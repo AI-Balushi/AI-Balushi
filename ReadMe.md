@@ -1,5 +1,103 @@
-# 💫 About Me:
-👋 Hi, I'm Abdul Waheed Baloch!<br><br>🚀 **AI Agent Developer | n8n Automation Specialist | IT Support Specialist**<br><br>I'm a Computer Science graduate (BSCS) with 5 years of experience in IT Support, ERP systems, data management, and business operations.<br><br>I'm passionate about building intelligent AI agents, automating business workflows, and developing practical software solutions that solve real-world problems.<br><br>### 💫 What I'm Working On<br>- 🤖 Building AI Agents and intelligent automation workflows.<br>- 🔗 Developing business process automation using n8n.<br>- 💻 Learning and building backend applications with Node.js and Express.js.<br>- 🗄️ Working with MongoDB, PostgreSQL, and SQL.<br>- 📊 Exploring data analytics with Python, Power BI, and Advanced Excel.<br>- 🛠️ Developing practical AI-powered applications and automation tools.<br><br>### 🎯 My Goals<br>- Build production-ready AI agents and automation solutions.<br>- Become an expert in AI Agent Development and Backend Engineering.<br>- Develop innovative software products that make businesses smarter and more efficient.<br><br>### ⚡ A Little More About Me<br>- 🎓 BSCS Graduate – Sindh Institute of Management & Technology.<br>- 💼 5 Years of IT Support and Technical Experience.<br>- 🧠 Learning AI Agent Development and Prompt Engineering.<br>- 🌍 Based in Karachi, Pakistan.<br>- 💡 Always learning, building, and exploring new technologies.<br><br>**"Turning ideas into intelligent solutions through AI, automation, and code."**
+# 👋 Hi, I'm Abdul Waheed Baloch
+
+### AI Agent Developer | n8n Automation Specialist | IT Support Specialist
+
+**Building intelligent AI solutions, automating workflows, and developing practical software applications.**
+
+I'm a Computer Science graduate (BSCS) with **5 years of experience in IT support, ERP systems, data management, and business operations.** I enjoy combining technology, automation, and problem-solving to build solutions that make everyday business processes smarter and more efficient.
+
+Currently, I'm focused on AI Agent Development, workflow automation, and backend engineering.
+
+---
+
+## 🚀 What I'm Focused On
+
+- 🤖 Building AI agents and intelligent automation solutions.
+- 🔗 Creating business workflow automations with **n8n**.
+- 💻 Developing backend applications using **Node.js and Express.js**.
+- 🗄️ Working with **MongoDB, PostgreSQL, and SQL**.
+- 🐍 Exploring AI and data analytics using **Python**.
+- 📊 Creating data-driven solutions with **Power BI and Advanced Excel**.
+- ⚙️ Integrating APIs and building practical software applications.
+
+## 🛠️ Tech Stack & Tools
+
+**Programming Languages**
+- JavaScript | Python | TypeScript | SQL
+
+**Backend Development**
+- Node.js | Express.js | REST APIs
+
+**Databases**
+- MongoDB | PostgreSQL | MySQL
+
+**AI & Automation**
+- n8n | AI Agents | Prompt Engineering | Workflow Automation
+
+**Data & Analytics**
+- Power BI | Advanced Excel | Pandas | NumPy
+
+**Tools & Platforms**
+- Git | GitHub | VS Code | Postman | Google Colab | Vercel
+
+**Enterprise Systems**
+- Oracle Fusion ERP | Data Management | IT Support
+
+## 💼 Professional Background
+
+- 🎓 **Education:** BSCS – Sindh Institute of Management & Technology.
+- 💼 **Experience:** 5 Years in IT Support and Technical Operations.
+- 🏢 **ERP Experience:** Oracle Fusion ERP and business process support.
+- 🧠 **AI Learning:** Prompt Engineering and AI Agent Development.
+- 🌍 **Location:** Karachi, Pakistan.
+
+## 🎯 Current Goals
+
+- Build production-ready AI agents and automation workflows.
+- Strengthen backend development and API integration skills.
+- Develop scalable AI-powered business applications.
+- Create practical software products that solve real-world problems.
+
+## 📌 Featured Projects
+
+Explore my repositories to see my work in:
+
+- 🤖 AI-powered applications and automation.
+- 🔗 n8n workflow automation.
+- 💻 Node.js and Express.js backend projects.
+- 🗄️ Database-driven applications.
+- 📊 Python and data analytics projects.
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** [Abdul Waheed Baloch](https://www.linkedin.com/in/abdul-waheed-al-balushi-84486317b/)
+- 💻 **GitHub:** [AI-Balushi](https://github.com/AI-Balushi)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://abdul-portfolio-sandy.vercel.app/)
+- 📧 **Email:** [waheedjdk@hotmail.com](mailto:waheedjdk@hotmail.com)
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=AI-Balushi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com/?user=AI-Balushi&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Balushi&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=AI-Balushi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### 💡 My Philosophy
+
+*"Turning ideas into intelligent solutions through AI, automation, and code."*
+
+⭐ Always learning. Always building. Always improving.
+
+
 
 
 ## 🌐 Socials:
